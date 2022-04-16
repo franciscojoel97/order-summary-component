@@ -30,7 +30,7 @@ Los usuarios deben ser capaces de ver el diseño ótimo del componente según el
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [franciscojoeldev-order-summary-component.netlify.app](https://franciscojoeldev-order-summary-component.netlify.app/)
 
 ## My process
 
